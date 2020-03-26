@@ -66,3 +66,17 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+DEV PLAN
+
+Make it possible to create a task
+Make it possible to complete a task
+Make it possible to assign a date and time to a task(from....to)
+Make it possible to assign a project/tag to a task
+Make it possible to assign a recurrence to a task
+Make it possible to filter tasks based on project
+Make it possible to filter tasks based on projects
+Impliment recurrence
+Impliment sub-tasks and heirarchy
+Compile Day Tasks
+Make it possible to mail the list to myself
